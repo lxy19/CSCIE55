@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="671ff0bf-6794-4e25-b428-2022ce8139d7" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1Ry8Y3WC7Ffd4EreWs2Is8kqkNA" />
+  <component name="PropertiesComponent">
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$USER_HOME$/workspace/Udacity/JDND-course3_midterm_starter/P03-ReviewsAPI" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.ElevatorTest.testDeliveryPerson">
+    <configuration name="ElevatorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="building" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cscie55.hw3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cscie55.hw3" />
+      <option name="MAIN_CLASS_NAME" value="cscie55.hw3.ElevatorTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ElevatorTest.elevatorFull" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="building" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cscie55.hw3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cscie55.hw3" />
+      <option name="MAIN_CLASS_NAME" value="cscie55.hw3.ElevatorTest" />
+      <option name="METHOD_NAME" value="elevatorFull" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ElevatorTest.testDeliveryPerson" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="building" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cscie55.hw3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cscie55.hw3" />
+      <option name="MAIN_CLASS_NAME" value="cscie55.hw3.ElevatorTest" />
+      <option name="METHOD_NAME" value="testDeliveryPerson" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ElevatorTest.testElevatorMotion" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="building" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cscie55.hw3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cscie55.hw3" />
+      <option name="MAIN_CLASS_NAME" value="cscie55.hw3.ElevatorTest" />
+      <option name="METHOD_NAME" value="testElevatorMotion" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ElevatorTest.testLoadUnload" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="building" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cscie55.hw3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cscie55.hw3" />
+      <option name="MAIN_CLASS_NAME" value="cscie55.hw3.ElevatorTest" />
+      <option name="METHOD_NAME" value="testLoadUnload" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ElevatorTest.testDeliveryPerson" />
+        <item itemvalue="JUnit.ElevatorTest.elevatorFull" />
+        <item itemvalue="JUnit.ElevatorTest" />
+        <item itemvalue="JUnit.ElevatorTest.testElevatorMotion" />
+        <item itemvalue="JUnit.ElevatorTest.testLoadUnload" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="671ff0bf-6794-4e25-b428-2022ce8139d7" name="Default Changelist" comment="" />
+      <created>1570628019819</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1570628019819</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/cscie55/hw3/ElevatorTest.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/cscie55/hw3/ElevatorTest.java</url>
+          <line>114</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/cscie55/hw3/ElevatorTest.java</url>
+          <line>110</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/cscie55/hw3/impl/Elevator.java</url>
+          <line>97</line>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/cscie55/hw3/impl/Elevator.java</url>
+          <line>65</line>
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/cscie55/hw3/ElevatorTest.java</url>
+          <line>246</line>
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/building$ElevatorTest.ic" NAME="ElevatorTest Coverage Results" MODIFIED="1570925173930" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>cscie55.hw3.*</FILTER>
+    </SUITE>
+  </component>
+</project>
