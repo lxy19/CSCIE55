@@ -1,0 +1,61 @@
+[ {
+  "name" : "vegetable dumpling",
+  "vegetarian" : true,
+  "calories" : 25,
+  "type" : "OTHER",
+  "menu" : null
+}, {
+  "name" : "mapo tofu",
+  "vegetarian" : true,
+  "calories" : 377,
+  "type" : "OTHER",
+  "menu" : null
+}, {
+  "name" : "oolong Marinated Chilean Sea Bass",
+  "vegetarian" : true,
+  "calories" : 560,
+  "type" : "FISH",
+  "menu" : null
+}, {
+  "name" : "Szechuan shrimp",
+  "vegetarian" : false,
+  "calories" : 700,
+  "type" : "OTHER",
+  "menu" : null
+}, {
+  "name" : "spring roll",
+  "vegetarian" : false,
+  "calories" : 165,
+  "type" : "MEAT",
+  "menu" : null
+}, {
+  "name" : "beef chow mein",
+  "vegetarian" : false,
+  "calories" : 320,
+  "type" : "MEAT",
+  "menu" : null
+}, {
+  "name" : "Peking duck",
+  "vegetarian" : false,
+  "calories" : 650,
+  "type" : "MEAT",
+  "menu" : null
+}, {
+  "name" : "barbecued pork",
+  "vegetarian" : false,
+  "calories" : 543,
+  "type" : "MEAT",
+  "menu" : null
+}, {
+  "name" : "crab soup",
+  "vegetarian" : false,
+  "calories" : 160,
+  "type" : "OTHER",
+  "menu" : null
+}, {
+  "name" : "wonton soup",
+  "vegetarian" : false,
+  "calories" : 240,
+  "type" : "MEAT",
+  "menu" : null
+} ]
